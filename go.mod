@@ -1,4 +1,4 @@
-module akondratov/lecture-00
+module solution
 
 go 1.18
 
